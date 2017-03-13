@@ -18,3 +18,6 @@ console.log(ClassElements);
 //changing HTML elements
 console.log(idElement.innerHTML);
 idElement.innerHTML = "I Have Been Changed";
+
+console.log(ClassElements[1]);
+
